@@ -21,7 +21,7 @@ namespace PictureViewer
             // Store the original background color 
             originalBackColor = pictureBox1.BackColor;
         }
-
+        // Changes
         private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
 
